@@ -15,4 +15,4 @@ this space is where I practice how to mark down.
 - [ ] :computer:
 - [ ] :apple:
 - [ ] :envelope:
-- [ ]  All done!! congradulations! :tada:
+- [ ]  All done!! congradulations!! :tada:
